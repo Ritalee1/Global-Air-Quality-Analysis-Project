@@ -43,18 +43,9 @@ pip install -r requirements.txt
 ```
 ### **3. Run Data Analysis & Visualization**
 ```bash
-python visualization.py
+python air_quality_analysis.py
 ```
-### **4. Run Forecasting Models**
-- **ARIMA Forecast:**
-```bash
-python arima_forecasting.py
-```
-- **Facebook Prophet Forecast:**
-```bash
-python prophet_forecasting.py
-```
-### **5. View Results**
+### **4. View Results**
 - Check the generated charts and `report.pdf` for insights.
 - Deploy using Streamlit or Flask for an interactive dashboard.
 
