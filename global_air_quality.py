@@ -19,7 +19,7 @@ print(df.head())
 
 
 # Keep only relevant columns
-columns_to_keep = ["Location", "Period", "FactValueNumeric", "FactValueNumericLow", "FactValueNumericHigh", "Indicator"]
+columns_to_keep = ["Location", "Period", "Pollution_Value", "Pollution_Low", "Pollution_High", "Indicator"]
 df = df[columns_to_keep]
 
 # Display the updated dataset
