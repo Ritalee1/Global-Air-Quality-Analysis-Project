@@ -10,3 +10,4 @@ pmdarima==2.0.4
 streamlit==1.42.0
 jupyterlab==4.0.9
 notebook==7.0.6
+
