@@ -7,7 +7,7 @@
 import pandas as pd
 
 # Load Dataset
-file_path = "C:\\Users\\Rita\\global_air_quality.csv"
+df = pd.read_csv("global_air_quality_cleaned.csv")  # Ensure the file path is correct
 print(df.head())
 
 # Display first few rows
