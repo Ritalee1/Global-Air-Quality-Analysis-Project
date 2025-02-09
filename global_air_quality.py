@@ -8,6 +8,7 @@ import pandas as pd
 
 # Load Dataset
 file_path = "C:\\Users\\Rita\\global_air_quality.csv"
+print(df.head())
 
 # Display first few rows
 print("📌 Dataset Preview:")
@@ -67,7 +68,7 @@ print(f"✅ Cleaned dataset saved as {cleaned_file}")
 
 file_path = "C:\\Users\\Rita\\global_air_quality_cleaned.csv"
 df = pd.read_csv(file_path)
-df.head()
+print(df.head())
 
 # # Summary Statistics
 
