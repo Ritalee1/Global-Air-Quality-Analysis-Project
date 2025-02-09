@@ -24,10 +24,8 @@ Air pollution is a major environmental and health concern. This project seeks to
 ```
 📂 Global Air Quality Analysis
  ├── 📄 global_air_quality_cleaned.csv  # Cleaned dataset
- ├── 📄 data_analysis.ipynb              # Data exploration and EDA
- ├── 📄 arima_forecasting.py             # ARIMA model implementation
- ├── 📄 prophet_forecasting.py           # Prophet model implementation
- ├── 📄 visualization.py                 # Plots and graphs
+ ├── 📄 air_quality_analysis.ipynb        # Data exploration, EDA, forecasting & visualization
+ ├── 📄 air_quality_analysis.py           # Python script containing visualization, analysis & forecasting
  ├── 📄 requirements.txt                 # Dependencies list
  ├── 📄 README.md                        # Project documentation
  ├── 📄 report.pdf                        # Final report with results
