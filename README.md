@@ -24,7 +24,7 @@ Facebook Prophet: Models seasonality and uncertainty in pollution trends from 20
 These models help anticipate air quality changes, providing valuable insights for policymakers.
 
 ## **Analysis of Results**
-From the analysis, we found that South Asia and the Middle East have some of the highest pollution levels, with countries like India, Afghanistan, and Kuwait experiencing severe air quality issues. Conversely, Finland, Canada, and the Bahamas were among the cleanest regions. The correlation heatmaps revealed strong relationships between different pollutants, suggesting that industrial and vehicular emissions significantly contribute to air pollution.
+From the analysis, I found that South Asia and the Middle East have some of the highest pollution levels, with countries like India, Afghanistan, and Kuwait experiencing severe air quality issues. Conversely, Finland, Canada, and the Bahamas were among the cleanest regions. The correlation heatmaps revealed strong relationships between different pollutants, suggesting that industrial and vehicular emissions significantly contribute to air pollution.
 
 The forecasting results showed that while some regions may see improvements in air quality due to policy changes, heavily industrialized regions are likely to experience continued high pollution levels. ARIMA provided stable forecasts, while Prophet offered seasonality-aware predictions, showing periodic spikes and declines in pollution levels.
 
