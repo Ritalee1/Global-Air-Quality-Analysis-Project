@@ -17,7 +17,7 @@ By addressing these questions, this project provides data-driven insights to hel
 ## **Methodology**
 To conduct this analysis, I first acquired historical air pollution data, which included key pollutants like PM2.5, NO2, CO, and SO2 across different countries. The dataset was cleaned by handling missing values and renaming columns for clarity. Exploratory Data Analysis (EDA) was performed using visualizations such as boxplots, heatmaps, and trend lines to identify pollution distribution and correlations.
 
-## ** For forecasting, I implemented two time-series models:**
+## **For forecasting, I implemented two time-series models:**
 
 ARIMA (AutoRegressive Integrated Moving Average): Captures linear pollution trends and predicts future air quality.
 Facebook Prophet: Models seasonality and uncertainty in pollution trends from 2020 to 2030.
