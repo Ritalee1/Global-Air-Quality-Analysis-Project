@@ -49,7 +49,7 @@ python air_quality_analysis.py
 ```
 ### **4. View Results**
 - Check the generated charts and `report.pdf` for insights.
-- Deploy using Streamlit or Flask for an interactive dashboard.
+- Deploy using Google Colab for an interactive analysis.
 
 ## **Contributing**
 Pull requests are welcome! For major changes, please open an issue first to discuss.
