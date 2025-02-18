@@ -33,6 +33,13 @@ This study highlights the disparities in global air pollution levels and provide
 
 While this analysis provides a solid foundation, future improvements could include real-time data collection, integration of satellite data, and advanced deep learning models to enhance prediction accuracy. This project serves as a valuable tool for researchers and policymakers working toward cleaner air and a sustainable future.
 
+## Data Source
+The dataset used in this project is sourced from the **World Health Organization (WHO) Global Air Quality Database**.  
+- **Source:** [WHO Global Air Pollution Database](https://www.who.int/data/gho/data/themes/air-pollution)
+- **Description:** This dataset provides air quality measurements across various countries, including key pollutants such as PM2.5, NO2, CO, and SO2.  
+- **License & Attribution:** Data provided by the **World Health Organization (WHO)** for research and analysis purposes.
+
+
 ## **How to Run the Project**
 ### **1. Clone the Repository**
 ```bash
